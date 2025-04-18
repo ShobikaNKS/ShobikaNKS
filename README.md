@@ -15,4 +15,6 @@ Python | HTML | CSS | SQL | Data Science | Machine Learning
 Top Languages
 
 📫 Connect With Me
-LinkedIn | GitHub
+
+[LinkedIn](https://www.linkedin.com/in/shobika-nks-980854223/) | [GitHub](https://github.com/ShobikaNKS)
+
