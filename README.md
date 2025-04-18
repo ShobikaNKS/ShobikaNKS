@@ -14,8 +14,6 @@ Python | HTML | CSS | SQL | Data Science | Machine Learning
 
 ## 📊 GitHub Stats
 
-![ShobikaNKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShobikaNKS&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShobikaNKS&layout=compact&theme=radical)
 
 
